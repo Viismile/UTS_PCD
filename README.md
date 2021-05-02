@@ -1,8 +1,8 @@
 # UTS Pengolah Citra
 
-### Nama  : Rofi Ismail
-### Kelas : TI.19.A.2
-### NIM   : 311910657
+#### Nama  : Rofi Ismail
+#### Kelas : TI.19.A.2
+#### NIM   : 311910657
 
 Source Code GUI UTS
 
